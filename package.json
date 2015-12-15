@@ -1,0 +1,38 @@
+{
+  "name": "go-watch",
+  "version": "0.0.1",
+  "description": "Simple file watcher for golang (go) programs",
+  "main": "bin/go-watch",
+  "preferGlobal": "true",
+  "directories": {
+    "bin": "./bin"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "shelljs": "^0.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "bin/go-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "go",
+    "golang",
+    "gulp",
+    "watch",
+    "watcher",
+    "build",
+    "run"
+  ],
+  "homepage": "http://github.com/William-Olson/go-watch",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/William-Olson/go-watch.git"
+  },
+  "author": "William Olson",
+  "license": "MIT"
+}
