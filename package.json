@@ -1,6 +1,6 @@
 {
   "name": "go-watch",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple file watcher for golang (go) programs",
   "main": "bin/go-watch",
   "preferGlobal": "true",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "na"
+    "url": "git://github.com/William-Olson/go-watch.git"
   },
   "keywords": [
     "go",
@@ -29,10 +29,6 @@
     "run"
   ],
   "homepage": "http://github.com/William-Olson/go-watch",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/William-Olson/go-watch.git"
-  },
   "author": "William Olson",
   "license": "MIT"
 }
